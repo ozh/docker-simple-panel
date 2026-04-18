@@ -35,7 +35,9 @@ Clone or copy the folder into:
 ~/.local/share/cinnamon/applets/
 ~~~
 
-Then restart Cinnamon:
+Rename the new folder to `docker-simple-panel@ozh`
+
+Restart Cinnamon:
 
 ~~~
 Alt + F2 → r
