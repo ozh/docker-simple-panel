@@ -1,0 +1,20 @@
+{
+    "uuid": "docker-simple-panel@ozh",
+    "name": "Docker Simple Panel",
+    "description": "Shows running Docker containers and their status",
+    "icon": "applications-system",
+
+    "version": "1.0.0",
+    "max-instances": 1,
+    "multiversion": false,
+
+    "author": "ozh",
+    "website": "https://ozh.org/",
+    
+    "keywords": [
+        "docker",
+        "containers",
+        "dev",
+        "monitoring"
+    ]
+}
